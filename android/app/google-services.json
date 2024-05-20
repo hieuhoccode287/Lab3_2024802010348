@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225626413744",
+    "project_id": "lab3-kamispa",
+    "storage_bucket": "lab3-kamispa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225626413744:android:f1a52db05655099fde3975",
+        "android_client_info": {
+          "package_name": "com.lab3_bph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSTHu-32l_9Tu7zPQflYYWF_O39DT3LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
